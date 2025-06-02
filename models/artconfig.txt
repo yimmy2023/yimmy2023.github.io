@@ -1,0 +1,5 @@
+AddCharModel(1, 20001, "ASAP_PYREX1.dff", "ASAP_PYREX1.txd");
+AddCharModel(9, 20002, "model9.dff", "model9.txd");
+AddCharModel(9, 20003, "skin1.dff", "skin1.txd");
+AddCharModel(1, 20004, "skin58.dff", "skin58.txd");
+AddCharModel(9, 20005, "Tmonokuma.dff", "Tmonokuma.txd");
